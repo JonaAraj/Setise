@@ -1,0 +1,45 @@
+*{
+    font-family: Salvatore;
+    margin: 2.em;
+}
+header{
+    background-color: #EDE4D6;
+    width: 100%;
+    height: 100px;
+    padding-top: 25px;
+}
+.tittle li,ul {
+    display: flex;
+    float: right;
+    padding: 12px 6px 0 12px;
+    margin: 6px;
+    
+
+    img{
+        margin: 0 12px 0 0;
+        padding: 0 0 18px ;
+        width: 25px;
+    }
+}
+.main-container{
+    width: 100%;
+    background-color: #EDE4D6;
+}
+.map-container{
+    padding: 10px;
+    width: 80px;
+    
+}
+.carousel-container{
+    display:flex;
+    justify-content: right;
+    align-items: center;
+    width: 400px;
+    position: fixed;
+    top: 200px;
+    right: 100px;
+}
+#property-name{
+    text-align: center;
+    font-size: 22px;
+}

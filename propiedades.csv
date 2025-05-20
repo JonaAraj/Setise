@@ -1,0 +1,4 @@
+id,nombre,ubicacion,descripcion,amenidades,caractristicas,precio
+1,departamento,SanNicolas,departamento con recamaras matrimoniales, "baño, cocina", 2 habitaciones con 25m2,1.200.000
+2,nave industrial,Apodaca,nave industrial con oficinas, "baño, dos pisos, baño, habitaciones, sala de juntas",12m2 por habitacion, 4.000.000
+3,quinta "los girasoles",Santiago,quinta con habitaciones, "cabaña de 25m2 y casa con 72m2", 16m2 con recamaras cada habitacion, 3.500.000
